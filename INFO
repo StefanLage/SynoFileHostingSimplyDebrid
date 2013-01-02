@@ -1,0 +1,10 @@
+{
+	"name": "simplyDebrid",
+	"hostprefix": "z3raw.fr",
+	"displayname": "SimplyDebrid",
+	"version": "1.0",
+	"authentication": "yes",
+	"module": "host.php",
+	"class": "SynoFileHostingSimplyDebrid",
+	"description": "Premium or free account supported." 
+}
